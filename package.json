@@ -13,5 +13,6 @@
   "devDependencies": {
     "vuepress": "^1.9.7",
     "vuepress-theme-reco": "^1.6.11"
-  }
+  },
+  "homepage": "https://echovie.github.io/vuepress-learn"
 }
